@@ -2,6 +2,8 @@
 
 SCSI Testing 
 
+[![Build Status](https://travis-ci.org/nttlman23/scsi_test.svg?branch=main)](https://travis-ci.org/nttlman23/scsi_test)
+
 ### Build
 ```bash
 $ mkdir build
