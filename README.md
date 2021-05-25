@@ -27,3 +27,4 @@ scsi_test [-l LBAVAL] [-b BLOCKS] [-m MAXBLOCKS [-c COUNT]] [-s] [-v] -d DEVICE
   -r, --read - test read  
   -d, --device - device node (/dev/sgX or /dev/sdXX)  
   -h, --help - print this message  
+
